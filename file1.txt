@@ -6,5 +6,4 @@ git stash all
 
 new changes for stash apply on dev beanch
 
-
-git new changes 
+git changes in local 

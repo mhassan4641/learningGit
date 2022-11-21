@@ -7,4 +7,5 @@ git stash all
 new changes for stash apply on dev beanch
 
 
-git new changes changed in local
+git new changes changed from remote
+changed in local

@@ -1,3 +1,10 @@
 line 1 in file 1
 
 stash removed
+git stash all
+
+
+new changes for stash apply on dev beanch
+
+
+git new changes 
